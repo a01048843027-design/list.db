@@ -1,7 +1,8 @@
 {
   "score": [
     { "hakbun": 20250001, "irum":"홍길동", "kor":14, "eng":80, "mat":10 },
-    { "hakbun": 20250002, "irum":"김길동", "kor":54, "eng":70, "mat":80 }
+    { "hakbun": 20250002, "irum":"김길동", "kor":54, "eng":70, "mat":80 },
+     { "hakbun": 20250002, "irum":"고길동", "kor":15, "eng":40, "mat":20 }
   ]
 }
 
